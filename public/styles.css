@@ -1,13 +1,13 @@
 body {
     background-color: #ffffcc;
     font-size: 120%;
-    font-family: Arial;
+    font-family: 'Cabin Condensed', sans-serif;
 }
 
 button,
 input {
     font-size: 100%;
-    font-family: Arial;
+    font-family: 'Cabin Condensed', sans-serif;
 }
 
 table {
